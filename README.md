@@ -80,6 +80,23 @@ StudentHub/
 - Form validation and testing
 - Additional analytics and reporting
 
+## 🖥️ Application Screenshots
+
+### Login
+![StudentHub Login](login_page.png)
+
+### Dashboard
+![StudentHub Dashboard](dashboard_page.png)
+
+### Student Records
+![Student Records](student_records.png)
+
+### Analytics
+![Student Analytics](analytics_page.png)
+
+### Reports
+![StudentHub Reports](report_page.png)
+
 ## 👩‍💻 Author
 
 **Bindusree Seetha**
